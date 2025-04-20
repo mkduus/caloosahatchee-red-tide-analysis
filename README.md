@@ -35,10 +35,10 @@ This project uses environmental data and machine learning to explore the potenti
 
 - `REMApp_Data_ML.ipynb` – Main data processing and machine learning notebook  
 - `REMApp_Visualization.ipynb` – Cartopy visualizations and site maps  
-- `data/` – Cleaned and raw data sources (if included)  
+- `data/` – Cleaned and raw data sources  
 - `README.md` – This file  
 
 ## 👥 Team
 
-This project was completed as part of a course at [Your School/Department Name]  
-Team members: [Add names here]
+This project was completed as part of a course at Florida Gulf Coast University  
+Team members: Carter Baker, Matthew Duus, Hayden Parks, and Callie Unterreiner
